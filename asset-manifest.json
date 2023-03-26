@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/qr-code-reader/static/css/main.940c17c0.css",
+    "main.js": "/qr-code-reader/static/js/main.defa9755.js",
+    "service-worker.js": "/qr-code-reader/service-worker.js",
+    "index.html": "/qr-code-reader/index.html",
+    "main.940c17c0.css.map": "/qr-code-reader/static/css/main.940c17c0.css.map",
+    "main.defa9755.js.map": "/qr-code-reader/static/js/main.defa9755.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.940c17c0.css",
+    "static/js/main.defa9755.js"
+  ]
+}
